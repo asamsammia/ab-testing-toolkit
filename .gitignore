@@ -1,0 +1,10 @@
+# data and creds
+data/
+!data/.gitkeep
+*.csv
+*.parquet
+.env
+.DS_Store
+__pycache__/
+.ipynb_checkpoints/
+.venv/
